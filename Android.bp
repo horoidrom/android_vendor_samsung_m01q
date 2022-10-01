@@ -71,12 +71,6 @@ android_app_import {
 }
 
 dex_import {
-	name: "embmslibrary",
-	owner: "samsung",
-	jars: ["proprietary/framework/embmslibrary.jar"],
-}
-
-dex_import {
 	name: "tcmclient",
 	owner: "samsung",
 	jars: ["proprietary/framework/tcmclient.jar"],
